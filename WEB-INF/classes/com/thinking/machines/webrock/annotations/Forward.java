@@ -4,15 +4,11 @@ import java.lang.annotation.*;
 
 @Retention(RetentionPolicy.RUNTIME)
 
-@Target(
-{
+@Target({
 ElementType.TYPE,ElementType.METHOD
 })
 
-public @ interface Path
-
+public @interface Forward
 {
-
 String value();
-
 }
