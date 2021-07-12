@@ -1,9 +1,7 @@
 # Java-based-WebService-Framework
-Framework makes it easy to create applications and services with absolute minimum fuss.Small over view of the frame work and user can easily use the framework to produce backends of the web applications/projects.
+Using this framework, the user can create backend/server-side services for web-applications. User no need to write the entire web.xml, and this framework also creates the JS file automatically.This framework help user to create web-application very easily and quickly.
 
-You can use this framework to create backend/serverside services for web requests, Now user not need to know about servlets or edit Web.xml,user can simply use the framework and all its need can be solved.
-
-# Benifits of using this FrameWork:-
+# Benefits of using this FrameWork:-
 1.Absolutely no requirement for XML configuration.
 
 2.No need to write servlets Classes for every new web Request.
